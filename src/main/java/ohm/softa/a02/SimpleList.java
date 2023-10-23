@@ -16,4 +16,6 @@ public interface SimpleList {
 	 * @return a new, filtered list
 	 */
 	SimpleList filter(SimpleFilter filter);
+
+
 }
